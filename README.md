@@ -1,6 +1,6 @@
 # DSA210_Term_Project
 
-Analyzing MMA Fighters' Physical Attributes and Fight Outcomes
+Analyzing MMA Fighters' Attributes and Fight Outcomes
 
 # **Motivation**
 I enjoy MMA and wanted to explore some stats just for fun. Initially, my goal was to analyze the impact of training backgrounds (like wrestling or jiu jitsu) on fight outcomes, but due to limitations in the available data, I shifted focus. 
